@@ -1,0 +1,305 @@
+*{
+   margin: 0;
+   top :0;
+}
+
+
+
+h1 {
+    display:inline-block ;
+    color:black;
+    font-size: 3rem;
+    
+    
+
+}
+input{
+   margin-bottom:50px;
+   display: inline-block;
+
+}
+input[type=search]{
+    display: inline-block;
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+   
+    background-image:url(search.jpeg);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position: 12px;
+    text-indent: 5rem;
+    font-size: large;
+    
+
+
+}
+.nav a{
+    display: flex;
+    text-decoration: none;
+    padding: 20px;
+
+
+
+    
+
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    padding: 30px;
+
+}
+.nav{
+    display: flex;
+}
+section{
+    padding-top: 50px;
+    padding-right: 20px;
+    
+}
+
+.container{
+    margin-top: 20px ;
+    margin-left: 200px;
+}
+h2{
+    padding-top: 20px;
+   
+
+    
+      
+    
+}
+.container-body{
+    padding-left: 200px;
+    padding-top: 20px;
+    display: flex;
+    
+}
+.img2{
+    padding-left: 20px;
+
+}
+
+.img3{
+    padding-left: 20px;
+
+}
+
+
+.img4{
+    padding-left: 30px;
+   border-radius:20px;
+   width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: none;
+    opacity: 1;
+    will-change: transform, opacity;
+    border-radius: inherit;
+    filter: unset;
+}
+
+
+h3{
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+
+
+}
+.del h1{
+    padding-left: 200px;
+
+}
+
+.line1{
+    border-radius:20px;
+    display: flex;
+    padding-left:150px;
+   
+}
+.lin2{
+    display: flex;
+    padding-left:150px;
+    border-radius:20px;
+
+}
+.img5{
+    padding-top: 10px;
+    padding-left:15px;
+    padding-right:25px;
+    border-radius: 20px;
+    background-color:rgb(252, 240, 240) ;
+    
+
+
+}
+.img6{
+    padding-top: 10px;
+    padding-left:15px;
+    padding-right:25px;
+    border-radius: 20px;
+    background-color:rgb(252, 240, 240) ;}
+    
+.img7{
+    padding-top: 10px;
+    padding-left:15px;
+    padding-right:25px;
+    border-radius: 20px;
+    background-color:rgb(252, 240, 240) ; ;
+}
+.container-body h3{
+    padding-left:50px;}
+
+.img8{
+    padding-top: 10px;
+    padding-left:25px;
+    padding-right:10px;
+    border-radius: 20px;
+    background-color:rgb(252, 240, 240) ;;
+ } 
+ .img9{padding-top: 10px;
+    padding-left:25px;
+    padding-right:10px;
+    border-radius: 20px;
+    background-color:rgb(252, 240, 240) ; ;
+ } 
+ .img10{
+    padding-top: 10px;
+    padding-left:15px;
+    padding-right:25px;
+    border-radius: 20px;
+    background-color:rgb(252, 240, 240) ;;
+ } 
+
+footer .container{
+    background-color:whitesmoke;
+    padding-left: 25px;
+    text-decoration: none;
+    display: flex;
+
+ }
+ .container a{
+    text-decoration: none;
+    display: flex;
+    padding: 5px;
+    
+ }
+ .container h4{
+    padding-left: 20px;
+    padding-top:20px ;
+    font-size: larger;
+ }
+ .col{
+    padding-left: 65px;
+ }
+ .col1{
+    padding-left: 60px;
+ }
+ .col2{
+    padding-left: 70px;
+ }
+ .col3{
+    padding-left: 70px;
+    
+ }
+ .col3 i{
+
+    
+    background-color: black;
+ }
+ 
+
+ .col img{
+    padding-top: 20px;
+ }
+ .col i{
+    padding: 6px;
+    font-size: large;
+ }
+ .col3 i{
+    font-size: large;
+    padding: 5px;
+    display: flex;
+ }
+ .header-body{
+    padding-left: 190px;
+    font-size: 17px;
+    display:flex;
+    background-color:whitesmoke ;
+    
+
+ }
+ .header-body img{
+    width: 150px;
+    height: 150px;
+    padding-left:20px ;
+    padding:20px;
+ }
+ #img5{
+    border-radius: 20px;
+    
+ }
+ #img6{
+    border-radius: 20px;
+ }
+ #img7{
+    border-radius: 20px;
+ }
+ #img8{
+    border-radius: 20px;
+ }#img9{
+    border-radius: 20px;
+ }
+ #img10{
+    border-radius: 20px;
+ }
+ .img14{
+    padding-left: 20px;
+ }
+ .img15{
+    padding-left: 20px;
+ }
+ .img16{
+    padding-left: 20px;
+ }
+ .container-body h3{
+    text-align:left;
+ }
+  h2{
+   padding-left: 200px;
+   font-size: 2.5em;
+   font-family: serif;
+ }
+ .topper {
+   display: flex;
+   padding-left: 150px;
+   padding: auto;
+ }
+ .top1{
+
+   padding-left:50px ;
+ }
+ .top2{
+   padding-left: 50px;
+   
+ }
+
+
+ .top3{
+   padding-left: 50px;
+ }
+ 
+ .top4{
+   padding-left: 50px;
+ }
+ .top5{
+   text-align: center;
+   padding-left:50px ;
+ }
+ .top6{
+   
+ }
